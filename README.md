@@ -7,12 +7,12 @@ Recuerde de instalar los módulos de Node:
 npm install
 ```
 
-Además, de hacer el build, modo producción con:
+Para desplegar en modo producción use:
 ```
 npm run build
 ```
 
-Modo desarrollo con:
+Para desplegar en modo desarrollo use:
 ```
 npm run build:dev
 ```
